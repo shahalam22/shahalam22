@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shah Alam Abir</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Shah Alam Abir</b>, a student of <b>Software Engineering</b> undergraduate from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University of Dhaka</a>.
-    An aspiring <b>Full-Stack Web Developer,</b>&nbsp; <b>Web Designer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    This is me <b>Shah Alam Abir</b>, an undergrad student of <b>Software Engineering</b> from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University of Dhaka</a>.
+    An aspiring <b>Full-Stack Web Developer,</b>&nbsp; and <b>Web Designer</b>. 
   <br>
 </p>
 
