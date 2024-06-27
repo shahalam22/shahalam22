@@ -49,7 +49,7 @@
 
 - 📫 How to reach me **bsse1439@iit.du.ac.bd**
 
-- 💬 Alternate mail to reach me **shahalamabir21@gmail.com@gmail.com**
+- 💬 Alternate mail to reach me **shahalamabir21@gmail.com**
 
 <!--
 
@@ -81,14 +81,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" />
   </a>
 </p>
 
@@ -99,17 +99,17 @@
   </a>
 </p>
 
-- Cloud Servers
+- languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux,prisma,graphql,git,github,vscode,eclipse" />
   </a>
 </p>
 
@@ -120,16 +120,19 @@
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+ 
+<br>
+<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
