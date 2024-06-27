@@ -145,9 +145,7 @@
  
 ![SAA's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahalam22\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shahalam22&theme=midnight-purple)](https://git.io/streak-stats)
--->
 
 </div>
 
@@ -158,7 +156,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![ShahAlam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahalam22&custom_title=SAA's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![ShahAlam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahalam22&custom_title=ShahAlam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br>
 <br>
