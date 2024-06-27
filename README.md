@@ -2,17 +2,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shah Alam Abir</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50">
+  </a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Shah Alam Abir</b>, an undergrad student of <b>Software Engineering</b> from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University of Dhaka</a>.
-    An aspiring <b>Full-Stack Web Developer. 
-  <br>
+    This is me <b>Shah Alam Abir</b>, an undergrad student of <b>Software Engineering</b> from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University      of Dhaka</a>. An aspiring <b>Full-Stack Web Developer.<br> I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;          witnessing the expansion of computer science allowed me to   consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time.       And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 </p>
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
 
 <h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
