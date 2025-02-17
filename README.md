@@ -94,7 +94,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui,bootstrap,sass,styledcomponents" />
   </a>
 </p>
 
@@ -108,21 +108,21 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   </a>
 </p>
 
 - languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux,prisma,graphql,git,github,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,netlify,postman,prisma,graphql,notion,discord" />
   </a>
 </p>
 
