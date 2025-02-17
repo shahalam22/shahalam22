@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Shah Alam Abir</b>, an undergrad student of <b>Software Engineering</b> from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University      of Dhaka</a>. An aspiring <b>Full-Stack Web Developer</b>. I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;          witnessing the expansion of computer science allowed me to   consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time.       And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+    This is me <b>Shah Alam Abir</b>, an undergrad student of <b>Software Engineering</b> from <a href="http://www.iit.du.ac.bd"> <b>Institute of Information Technology</b>, University      of Dhaka</a>. An aspiring <b>Machine Learning Enthusiast and Web Dev</b>. I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;          witnessing the expansion of computer science allowed me to   consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time.       And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 </p>
 
 <br>
@@ -25,17 +25,17 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
