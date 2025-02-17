@@ -85,9 +85,9 @@
 <!--   <a href="https://skillicons.dev"> -->
 <!--     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" /> -->
     <img src="https://numpy.org/images/logo.svg" height="48px" width="48px"/>
-    <img src="https://skillicons.dev/icons?i=sklearn,enaconda" />
-    <img src="http://matplotlib.org/_static/logo2.svg" height="48px" width="80px"/>
-    <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" height="48px" width="80px"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,anaconda" />
+    <img src="http://matplotlib.org/_static/logo2.svg" height="48px" width="120px"/>
+    <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" height="48px" width="120px"/>
 <!--   </a> -->
 </p>
 
