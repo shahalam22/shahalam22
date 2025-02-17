@@ -47,7 +47,7 @@
 
 - 🔭 I’m currently working on **Some Personal Projects**
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **Deep Learning for Computer Vision**
 
 - 📫 How to reach me **bsse1439@iit.du.ac.bd**
 
