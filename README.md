@@ -84,7 +84,7 @@
 <p align="left">
 <!--   <a href="https://skillicons.dev"> -->
 <!--     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" /> -->
-    <img src="https://numpy.org/images/logo.svg" />
+    <img src="https://numpy.org/images/logo.svg" height="48px" width="48px"/>
 <!--   </a> -->
 </p>
 
