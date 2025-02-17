@@ -80,17 +80,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Machine Learning
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-  </a>
+<!--   <a href="https://skillicons.dev"> -->
+<!--     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" /> -->
+    <img src="https://numpy.org/images/logo.svg" />
+<!--   </a> -->
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,sass" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
   </a>
 </p>
 
